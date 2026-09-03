@@ -1,5 +1,5 @@
 # READMEs Docker
-READMEs sobre o trabalho de Redes
+READMEs sobre o trabalho de Redes.
 ## Experiências
 | Membro | Nome | Opinião |
 | ------ | ---- | ------- |
