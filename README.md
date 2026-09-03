@@ -1,2 +1,11 @@
-# readmes-docker
+# READMEs Docker
 READMEs sobre o trabalho de Redes
+## Experiências
+| Membro | Nome | Opinião |
+| ------ | ---- | ------- |
+| ![Foto de Gabriel Osti](https://suap.ifsp.edu.br/media/alunos/fotos/2024/5gjJrkhG2px6iDWN3nhevac-VDNPS3SMB7bfJ1oGRas.jpg) | Gabriel Osti | _"O trabalho sobre o Docker foi, para mim, muito interessante, pois me mostrou uma tecnologia que não conhecia e me instigou a pesquisar mais sobre ela. Observar seu processo de download e execução foi igualmente interessante. Este foi, deveras, um trabalho em grupo que terá efeitos mesmo após o seu término."_ |
+| ![Foto de Igor Arantes](https://suap.ifsp.edu.br/media/alunos/fotos/2024/eYPTw8P7wiLg8IdSuvYXFY7AugBXaAEcqYh0GJlIeUQ.jpg) | Igor Arantes | _"Realizar este projeto foi uma experiência muito interessante, principalmente por me permitir conhecer melhor o Docker, uma tecnologia que eu ainda não conhecia. Durante a atividade, aprendi sobre containers, imagens e alguns comandos do Docker, além de participar do trabalho em grupo. No final, acredito que essa atividade ajudou bastante a aumentar meus conhecimentos sobre tecnologia."_ |
+| ![Foto de Mauro Lopes de Almeida Junior](https://suap.ifsp.edu.br/media/alunos/fotos/2024/TdtMTqav68iQa7LwQc_ETaWuQY6ZIVUQM_ZQ32PtbhE.jpg) | Mauro Lopes de Almeida Junior | _"achei épico."_ |
+| ![Foto de Miguel Obara](https://suap.ifsp.edu.br/media/alunos/fotos/2024/4yFtdVJ2Y08TzuwN1bEBURvLgsvTqduQvg9guQjM4Sw.jpg) | Miguel Obara | _"O trabalho foi bastante divertido! Foi muito legal aprender sobre virtualização e Docker, que são tecnologias inovadoras e quebram um galho GIGANTE no desenvolvimento!"_ |
+| ![Foto de Rafael Francisco de Lima da Silva](https://suap.ifsp.edu.br/media/alunos/fotos/2024/V4QuIRE1GfgD5I92eXvdl0tiOLqk7IyWsK4mSxN3Kls.jpg) | Rafael Francisco de Lima da Silva | _"Eu gostei muito do trabalho. Foi extremamente gratificante saber da existência desse tipo de programa, que pode economizar tempo e espaço enquanto proporciona um ambiente de desenvolvimento leve e limpo. "_ |
+| ![Foto de Homem](https://github.com/Mauro5049/readmes-docker/blob/main/homem.png) | Custonho Orabó | _"Se pessoas boas podem se tornar cruéis após sofrerem o suficiente, e pessoas más podem se tornar boas depois de serem amadas o suficiente, então o que verdadeiramente separa o bem do mal?"_ |
